@@ -18,7 +18,7 @@
       "expo-web-browser",
       "@bacons/apple-colors"
     ],
-    "name": "SimpleCalc: Your Calculator",
+    "name": "Simple Calculator",
     "owner": "mokos"
   }
 }
